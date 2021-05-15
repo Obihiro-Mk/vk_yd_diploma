@@ -1,8 +1,8 @@
 import requests
 import json
 
-tk_vk_or = 'токен вк'
-tk_yd_or = 'токен яндекс'
+tk_vk_or = '958eb5d439726565e9333aa30e50e0f937ee432e927f0dbd541c541887d919a7c56f95c04217915c32008'
+tk_yd_or = 'AQAAAAAzRd1pAADLW1OAx2i20k0MsGc1foV1zu4'
 
 photos_info = {}
 
